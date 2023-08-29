@@ -1,0 +1,22 @@
+2023-08-26 14:31:30,471 - INFO - Loading data from: data/features.csv
+2023-08-26 14:31:30,487 - INFO - Training model...
+2023-08-26 14:31:30,526 - INFO - Saved model/train_final.csv
+2023-08-26 14:31:30,547 - INFO - Saved model/test_final.csv
+2023-08-26 14:31:30,562 - INFO - Model evaluation metrics:
+2023-08-26 14:31:30,563 - INFO - TRAINING: RMSE: 1869729980050.92 - R2: 0.5284
+2023-08-26 14:31:30,563 - INFO - VALIDATION: RMSE: 1728805241797.66 - R2: 0.5526
+2023-08-26 14:31:30,563 - INFO - 
+Model coefficients:
+2023-08-26 14:31:30,563 - INFO - Intersection: 253.70
+2023-08-26 14:31:30,563 - INFO -                        variables  Estimated coefficients
+0                    Item_Weight               -2.332949
+1                Item_Visibility             -311.774516
+2                       Item_MRP              825.276595
+3      Outlet_Establishment_Year              -10.632046
+4                    Outlet_Size              102.518103
+5           Outlet_Location_Type               27.760861
+6      Outlet_Type_Grocery Store            -1664.691331
+7  Outlet_Type_Supermarket Type1              191.570173
+8  Outlet_Type_Supermarket Type2             -242.596116
+9  Outlet_Type_Supermarket Type3             1715.717274
+2023-08-26 14:31:32,598 - INFO - Saved trained model.
