@@ -1,7 +1,7 @@
 """
 feature_engineering.py
 
-DESCRIPTION: This script contains functions for performing feature engineering on datasets.
+DESCRIPTION: 
 
 AUTHORS: Angela Siles
 
